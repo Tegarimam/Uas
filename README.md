@@ -1,2 +1,2 @@
 # Uas
-uas gis 
+uas gis menggunakan lealet 
