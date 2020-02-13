@@ -1,2 +1,2 @@
 # Uas
-uas gis menggunakan lealet 
+uas gis menggunakan leaflet 
